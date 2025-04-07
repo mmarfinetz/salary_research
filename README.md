@@ -2,9 +2,9 @@
 
 A modern, responsive dashboard showcasing salary and compensation data for various roles in the cryptocurrency industry, based on 2025 market data.
 
-## 🚀 Live Demo
+## 🚀 
 
-View the live demo: [Crypto Salary Report Dashboard](https://same-9hh93wyvoc8-latest.netlify.app/)
+View the live website [Crypto Salary Report Dashboard](https://same-9hh93wyvoc8-latest.netlify.app/)](https://crypto-salary-report.vercel.app/)
 
 ## 📊 Features
 
