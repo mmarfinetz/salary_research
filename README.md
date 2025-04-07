@@ -4,7 +4,7 @@ A modern, responsive dashboard showcasing salary and compensation data for vario
 
 ## 🚀 
 
-View the live website [Crypto Salary Report Dashboard](https://same-9hh93wyvoc8-latest.netlify.app/)](https://crypto-salary-report.vercel.app/)
+View the live website [[Crypto Salary Report Dashboard](https://same-9hh93wyvoc8-latest.netlify.app/)](https://crypto-salary-report.vercel.app/)
 
 ## 📊 Features
 
