@@ -182,13 +182,6 @@ function App() {
           </div>
         </section>
       </main>
-
-      <footer className="bg-[#2c426c] text-white py-6">
-        <div className="container mx-auto px-4">
-          <p className="text-center">Crypto Industry Salary Report © 2025</p>
-          <p className="text-center text-sm opacity-75 mt-2">For educational and informational purposes only. Salary data should be used as reference points for negotiation.</p>
-        </div>
-      </footer>
     </div>
   );
 }
